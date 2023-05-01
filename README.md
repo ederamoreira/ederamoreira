@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Eder Moreira 👋
 
 🎓 - Cursando Analise e Desenvolvimento de Sistemas <br>
-📚 - Estudando: HTML, CSS, Javascript, Java, React, Python <br>
 <div>
   <a href="https://github.com/ederamoreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ederamoreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
